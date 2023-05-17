@@ -2,18 +2,10 @@
 
 Este é um clone do Netflix, uma aplicação web que reproduz a interface do usuário do popular serviço de streaming Netflix. O projeto é desenvolvido utilizando HTML, CSS e JavaScript, e tem como objetivo demonstrar habilidades de desenvolvimento front-end e práticas de design responsivo.
 
-![Página Inicial do Netflix Clone](https://caminho-da-imagem.com/imagem.png)
-
-## Recursos
+## Recursos:
 
 - Layout responsivo que se adapta a diferentes tamanhos de tela.
-- Carrossel de imagens para exibir os filmes e séries em destaque.
-- Seção de categorias com miniaturas dos conteúdos disponíveis.
-- Integração com uma API para obter informações dos filmes e séries.
-
-## Demonstração
-
-Confira a [demonstração online](https://seu-usuario.github.io/NetflixClone) do Netflix Clone.
+- Criação da tela inicial.
 
 ## Como Executar o Projeto Localmente
 
@@ -23,7 +15,7 @@ Confira a [demonstração online](https://seu-usuario.github.io/NetflixClone) do
 git clone https://github.com/seu-usuario/NetflixClone.git
 ```
 
-Navegue até o diretório do projeto:
+2.Navegue até o diretório do projeto:
 
 ```shell
 cd NetflixClone
