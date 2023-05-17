@@ -16,7 +16,7 @@ Este é um clone do Netflix, uma aplicação web que reproduz a interface do usu
 1. Clone este repositório:
 
 ```shell
-git clone https://github.com/seu-usuario/NetflixClone.git
+git clone https://github.com/coutmilton/NetflixClone.git
 ```
 
 2.Navegue até o diretório do projeto:
