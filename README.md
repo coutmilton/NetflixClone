@@ -7,6 +7,10 @@ Este é um clone do Netflix, uma aplicação web que reproduz a interface do usu
 - Layout responsivo que se adapta a diferentes tamanhos de tela.
 - Criação da tela inicial.
 
+## Demonstração:
+
+![Gif](IMGReadme/one.gif)
+
 ## Como Executar o Projeto Localmente
 
 1. Clone este repositório:
